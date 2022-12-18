@@ -4,7 +4,7 @@ import Header from './pages/home/Header/index';
 import Typewriter from "typewriter-effect";
 import HashLoader from "react-spinners/HashLoader";
 import Aboutme from "./pages/home/Aboutme/index";
-import Works from './pages/home/Works/index';
+// import Works from './pages/home/Works/index';
 import Form from './pages/home/Form/index';
 import Footer from './pages/home/Footer/index';
 
@@ -65,7 +65,7 @@ function App() {
               </div>
               
             <Aboutme />
-            <Works />
+            {/* <Works /> */}
             <Form />
             <Footer />
           </section>
