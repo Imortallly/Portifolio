@@ -1,0 +1,113 @@
+#form-body {
+    width: 100%;
+    height: 90vh;
+    background-color: #0f1922;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.form-info {
+    display: flex;
+    width: 70rem;
+    height: 40rem;
+    justify-content: center;
+}
+.form-info-ajuste {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+    height: 100%;
+    text-align: left;
+}
+#contact {
+    font-size: 20px;
+}
+#problem-text {
+    font-size: 48px;
+    color: white;
+}
+#parag {
+    font-size: 16px;
+    color: #FFFEFA;
+    opacity: 70%;
+}
+
+.mailto {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    width: 13rem;
+}
+.mailto:hover {
+    color: purple;
+    transition: all 300ms;
+
+}
+.form {
+    width: 70rem;
+    height: 40rem;
+    flex-direction: column;
+    display: flex;
+    align-items: right;
+    justify-content: center;
+    text-align: left;
+
+}
+
+.input {
+    width: 80%;
+    height: 3rem;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    background-color: #1f2731;
+    border: none;   
+    outline: 0;
+    box-sizing: border-box;
+    padding: 0.4rem;
+    font-size: 1.2rem;
+    color: white;
+}
+.input:hover {
+    border: 0.2px solid purple;
+}
+
+.textarea {
+    width: 80%;
+    resize: none;
+    height: 8rem;
+    border-radius: 8px;
+    background-color: #1f2731;
+    border: 0;
+    outline: 0;
+    padding: 0.4rem;
+    box-sizing: border-box;
+    font-size: 1rem;
+    color: white;
+}
+.textarea:hover {
+    border: 0.2px solid purple;
+}
+
+.form h2 {
+    color: white;
+    font-size: 16px;
+    margin-bottom: 0.5rem;
+
+}
+
+.button {
+    height: 2.5rem;
+    margin-top: 4rem;
+    width: 8rem;
+    text-align: center;
+    font-size: 1rem;
+}
+.button:hover {
+    background-color: #0f1922;
+    color: white;
+    transition: all 300ms;
+    cursor: pointer;
+    border: 2px solid white;
+}

@@ -1,0 +1,50 @@
+.footer {
+    width: 100%;
+    height: 30rem;
+    box-sizing: border-box;
+}
+.bar-white {
+    width: 100%;
+    height: 8rem;
+    background-color: white;
+    box-sizing: border-box;
+}
+.footer-info {
+    width: 100%;
+    height: 30rem;
+    background-color: #0F1922;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.footer-info img {
+    width: 4rem;
+    padding: 3rem;
+}
+.icon {
+    width: 80%;
+}
+.options-footer {
+    width: 80%;
+    border-top: 2px solid #252E37;
+    border-bottom: 2px solid #252E37;
+    height: 8rem;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.info-page {
+    display: flex;
+    width: 80%;
+    height: 8rem;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.Adress {
+    color: white;   
+}

@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Condensed:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    transition: all ease 0.4s;
+    float: left;
+    z-index: 99999;
+}
+
+.ativaCor {
+    background-color: #0f1922cc;
+    backdrop-filter: blur(8px);
+}
+
+.title-options {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 5rem;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.animated-word {
+    color: white;
+}
+.title-1 {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    color: white;
+}
+
+.title-2 {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.social {
+    display: flex;
+    width: 30rem;
+    justify-content: space-around;
+
+}
+.social a {
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    color: white;
+}
+.social a:hover {
+    text-decoration: underline;
+}
+
+.github {
+    width: 4rem;
+    height: 4rem;
+}
+
+.linkedin {
+    width: 4rem;
+    height: 4rem;
+}
+
+.instagram {
+    width: 4rem;
+    height: 4rem;
+}
+
+.twitter {
+    width: 4rem;
+    height: 4rem;
+}
+
+.container {
+    height: 50%;
+    width: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social a svg {
+    width: 1.5rem;
+}
