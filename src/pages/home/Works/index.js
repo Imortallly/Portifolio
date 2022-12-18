@@ -1,5 +1,5 @@
 import './Works.css';
-import background from '../../../assets/background123.png'
+import background from '../../../assets/background123_compressed.png'
 
 const Works = () => {
     return ( 
