@@ -48,3 +48,9 @@
 .Adress {
     color: white;   
 }
+@media screen and (min-width: 1px) and (max-width: 1200px) {
+    .options-footer {
+        font-size: 0.7rem ;
+    }
+
+}

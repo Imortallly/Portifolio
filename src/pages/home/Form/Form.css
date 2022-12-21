@@ -111,3 +111,14 @@
     cursor: pointer;
     border: 2px solid white;
 }
+@media screen and (min-width: 1px) and (max-width: 1200px) {
+    .form-info {
+        height: 100%;
+    }
+    #problem-text {
+        font-size: 2rem;
+    }
+    .mailto {
+       font-size: 0.8rem;
+    }
+}

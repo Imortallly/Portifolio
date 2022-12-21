@@ -12,7 +12,7 @@ const Footer = () => {
                 <div className='options-footer'>
                     <div className='Address'>
                         <h3>Address</h3>
-                        <p>José Severino Martins 394, CEP: 88745-000 - Capivari de baixo</p>
+                        <p>Capivari de baixo - SC</p>
                     </div>
                     <div className='Content'>
                         <h3>Content responsibility</h3>

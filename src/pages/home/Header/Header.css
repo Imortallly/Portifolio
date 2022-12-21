@@ -89,3 +89,27 @@ header {
 .social a svg {
     width: 1.5rem;
 }
+
+@media screen and (min-width: 1px) and (max-width: 1200px) {
+    .animated-word {
+        font-size: 1.2rem;
+    }
+    .social a h2 {
+        font-size: 1.2rem;
+    }
+    .github {
+        display: none;
+    }
+    
+    .linkedin {
+        display: none;
+    }
+    
+    .instagram {
+        display: none;
+    }
+    
+    .twitter {
+        display: none;
+    }
+}
