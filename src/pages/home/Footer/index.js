@@ -20,7 +20,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className='info-page'>
-                    <p>© 2022 João Vitor Gomes Nunes</p>
+                    <p>© 2023 João Vitor Gomes Nunes</p>
                 </div>
             </div>
         </section>
