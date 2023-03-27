@@ -36,7 +36,7 @@ const Form = () => {
     }
 
     return (
-        <section id='form-body'>
+        <section className='form-body'>
             <div className='form-info'>
                 <div className='form-info-ajuste'>
                     <h1 id='contact'>CONTACT</h1>
