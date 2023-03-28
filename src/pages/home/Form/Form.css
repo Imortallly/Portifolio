@@ -112,10 +112,6 @@
     border: 2px solid white;
 }
 @media screen and (min-width: 1px) and (max-width: 1200px) {
-    .form-body {
-        display: flex;
-        flex-direction: column;
-    }
     .form-info {
         height: 100%;
     }

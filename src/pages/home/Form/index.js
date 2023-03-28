@@ -48,7 +48,7 @@ const Form = () => {
                     <p id='parag'>Get your space suit ready and tell me your ideas to develop your dream application.</p>
                     <br/>
                     <br/>
-                    <a className='mailto' href="mailto:keiichisan15@gmail.com">✉ keiichisan15@gmail.com</a>
+                    <a className='mailto' href="mailto:gomesjvgn@gmail.com">✉ gomesjvgn@gmail.com</a>
                 </div>
             </div>
             <form className="form" onSubmit={sendEmail}>
