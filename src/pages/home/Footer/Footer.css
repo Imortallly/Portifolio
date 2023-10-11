@@ -23,8 +23,23 @@
     width: 4rem;
     padding: 3rem;
 }
-.icon {
-    width: 80%;
+
+.icon-footer {
+    display: flex;
+    width: 30rem;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 2rem;
+}
+.icon-footer a {
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    color: white;
+    justify-content: center;
+}
+.icon-footer a svg {
+    width: 2rem;
 }
 .options-footer {
     width: 80%;
@@ -45,7 +60,7 @@
     justify-content: center;
     color: white;
 }
-.Adress {
+.Address {
     color: white;   
 }
 @media screen and (min-width: 1px) and (max-width: 1200px) {
@@ -54,6 +69,14 @@
     }
     .options-footer h3 {
         font-size: 1rem;
+    }
+    .icon-footer {
+        justify-content: center;
+        width: 100%;
+    }
+
+    .icon-footer a {
+        margin: 1rem;
     }
 
 }
