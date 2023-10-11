@@ -51,7 +51,7 @@ const Form = () => {
                     <br/>    
                     <p id='parag'>Get your space suit ready and tell me your ideas to develop your dream application.</p>
                     <br/>
-                    <a className='mailto' href="mailto:joaovitor.jvgn2002@gmail.com">✉ joaovitor.jvgn2002@gmail.com</a>
+                    <a className='mailto' href="mailto:joaovitor.jvgn2002@gmail.com">✉  joaovitor.jvgn2002@gmail.com</a>
                 </div>
             </div>
             <form className="form" onSubmit={sendEmail}>
