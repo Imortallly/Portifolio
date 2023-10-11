@@ -26,7 +26,8 @@ header {
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
-.animated-word {
+
+.logo {
     color: white;
 }
 .title-1 {
@@ -54,10 +55,11 @@ header {
     align-items: center;
     color: white;
 }
-.social a:hover {
-    text-decoration: underline;
-}
 
+.social a h2 {
+    font-size: 1.7rem;
+    margin: 0;
+}
 .github {
     width: 4rem;
     height: 4rem;

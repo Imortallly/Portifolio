@@ -4,7 +4,6 @@ import Header from './pages/home/Header/index';
 import Typewriter from "typewriter-effect";
 import HashLoader from "react-spinners/HashLoader";
 import Aboutme from "./pages/home/Aboutme/index";
-// import Works from './pages/home/Works/index';
 import Form from './pages/home/Form/index';
 import Footer from './pages/home/Footer/index';
 
@@ -17,7 +16,7 @@ function App() {
     setLoading(true)
     setTimeout(() => {
       setLoading(false)
-    }, 2000)
+    }, 1000)
   }, [])
 
   const [ativaCor, setAtivaCor] = useState(false);
@@ -65,7 +64,6 @@ function App() {
               </div>
               
             <Aboutme />
-            {/* <Works /> */}
             <Form />
             <Footer />
           </section>

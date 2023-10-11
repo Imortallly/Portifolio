@@ -4,7 +4,6 @@ import icon from '../../../assets/favicon.png'
 const Footer = () => {
     return ( 
         <section className='footer'>
-            <div className='bar-white'></div>
             <div className='footer-info'>
                 <div className='icon'>
                     <img src={icon} alt='icon'/>
