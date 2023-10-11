@@ -1,6 +1,6 @@
 .footer {
     width: 100%;
-    height: 30rem;
+    height: 25rem;
     box-sizing: border-box;
 }
 .bar-white {
@@ -11,7 +11,7 @@
 }
 .footer-info {
     width: 100%;
-    height: 30rem;
+    height: 25rem;
     background-color: #0F1922;
     box-sizing: border-box;
     display: flex;

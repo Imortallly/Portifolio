@@ -11,6 +11,7 @@ header {
     transition: all ease 0.4s;
     float: left;
     z-index: 99999;
+    
 }
 
 .ativaCor {
@@ -118,4 +119,5 @@ header {
     .twitter {
         display: none;
     }
+
 }

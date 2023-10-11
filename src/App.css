@@ -46,4 +46,7 @@ html {
     visibility: hidden;
     width: 0;
   }
+  .Typewriter__wrapper {
+    font-size: 1.9rem;
+  }
 }
