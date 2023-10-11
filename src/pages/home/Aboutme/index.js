@@ -2,9 +2,9 @@ import "./About-me.css";
 
 const Aboutme = () => {
   return (
-    <section id="init">
+    <section id="about">
       <div className="photo" />
-      <div className="about">
+      <div className="about-me">
         <div className="box-about">
           <h1>About</h1>
           <br />

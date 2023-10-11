@@ -4,14 +4,14 @@
     margin: 0;
     padding: 0;
 }
-#init { 
+#about { 
     display: flex;
     width: 100%;
     height: 100vh;
     background-color: white;
     flex-wrap: wrap;
 }
-.about {
+.about-me {
     display: flex;
     flex-direction: column;
     width: 50%;
