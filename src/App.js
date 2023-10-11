@@ -34,7 +34,7 @@ function App() {
   }, []);
 
   return (
-    <div className="App">
+    <div id='home' className="App">
       {
         loading ?
           <HashLoader

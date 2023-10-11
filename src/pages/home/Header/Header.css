@@ -88,6 +88,10 @@ header {
     justify-content: center;
 }
 
+.container a {
+    text-decoration: none;
+}
+
 .social a svg {
     width: 1.5rem;
 }

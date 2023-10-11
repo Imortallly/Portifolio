@@ -7,7 +7,7 @@ const Header = ({acao}) => {
             <div className='title-options'>
                 <div className='title-1'>
                     <div className='container'>
-                        <h1 className='logo'>Gomes <strong >DEV</strong></h1>
+                        <a href='#home'><h1 className='logo'>Gomes <strong >DEV</strong></h1></a>
                     </div>
                 </div>
                 <div className='title-2'>
